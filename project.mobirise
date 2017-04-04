@@ -494,7 +494,7 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "36px"
             }
           },
@@ -504,7 +504,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-i",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,

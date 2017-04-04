@@ -159,7 +159,7 @@
             "showTitles": true,
             "showArrow": true
           },
-          "title": "<span style=\"font-weight: normal;\">P U R E G O&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">P U R E G O&nbsp;</span><span style=\"font-weight: normal;\"><br></span>",
           "text": "PUREGO ist Ihr professioneller Partner in Sachen Fassadenbau, Mal- und Gipsarbeiten sowie Reinigung in der Region Solothurn.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">mehr</a>",
           "media1": {
@@ -333,6 +333,9 @@
             "H3": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            },
+            "SPAN": {
               "text-align": "left"
             }
           }

@@ -59,10 +59,10 @@
               "font-family": "'Ubuntu', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -97,7 +97,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
@@ -137,6 +137,23 @@
             "Extension"
           ],
           "_name": "extHeader3",
+          "_styles": {
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
           "_anchor": "extHeader3-1",
           "_params": {
             "iconsColor": "#fff",
@@ -217,30 +234,18 @@
               "newWindow": false
             }
           },
-          "title4": "Reinigung",
-          "_styles": {
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            "H3": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            "SPAN": {
-              "font-size": "72px"
-            }
-          }
+          "title4": "Reinigung"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-5",
           "_params": {
             "paddingTop": 2,
@@ -254,12 +259,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 RADONYX WEBDESIGN.",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 RADONYX WEBDESIGN."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -267,6 +267,21 @@
             "Extension"
           ],
           "_name": "extHeader14",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extHeader14-7",
           "_params": {
             "parallax": true,
@@ -323,28 +338,22 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            "H3": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "text-align": "left"
-            },
-            "SPAN": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-9",
           "_params": {
             "imageSize": 50,
@@ -391,22 +400,25 @@
           },
           "title": "FASSADENBAU<br><br>",
           "text": "Der Spezialist für Fassadenbau im Raum Solothurn. Ob Wohn-, Büro- oder Industriegebäude - die PUREGO GmbH bietet Ihnen die passende Fassade, attraktiv gestaltet und mit hoher Energieeffizienz.<br><br>Aussenisolation für geringere Heizkosten. Fassaden sind intensiven Wetter- und Umweltbedingungen ausgesetzt. Deshalb sind Erfahrung und Know-how im Bereich Wärmedämmung besonders wichtig.<br> <br>Wir als Fassadenbauspezialisten setzen uns mit den Themen Wärmedämmung und Aussendämmung auseinander und schützen somit Gebäude vor Wärmeverlust. Dank optimaler Wärmedämmung sparen die Eigentümer Heizkosten und schonen zudem die Umwelt.<br> <br><b>Schutz &amp; Werterhaltung<br></b><br>Eine gut erhaltene Aussendämmung schützt nicht nur das Gebäude, sondern trägt auch wesentlich zur Werterhaltung bei. Wir dämmen bestehende Gebäude preisgünstig und ohne grundlegende Veränderungen an der Aussenhülle.<br><br>Investieren in Energieeffizienz lohnt sich: Wer beim Sanieren auf Energieeffizienz setzt, hat Anspruch auf Fördergelder durch das Gebäudeprogramm. Unsere Mitarbeiter sind Experten, wenn es um klimagerechte Isolationen geht und beraten und unterstützen Sie während der gesamten Sanierungsphase.<br><br><b>Wir bieten<br></b> <br>Dämmung der Hausfassaden (Aussendämmung) <br>Optimale Wärmedämmung für geringere Heizkosten<br>Kunststoff- oder mineralischen Deckputz<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "right"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "header1-d",
           "_params": {
             "parallax": true,
@@ -429,25 +441,25 @@
           },
           "title": "MALARBEITEN<br><br>",
           "text": "Ob innere- und äussere Verputzarbeiten, Trockenbau, Deckenverkleidungen, Edelputze, Malerarbeiten, Fassadenreinigungen, Fassadenrenovationen, Beschichtungen oder Tapezierarbeiten die PUREGO GmbH ist Ihr kompetenter Ansprechpartner für Maler- und Gipserarbeiten.<br><br><b>Malerarbeiten<br></b><br>Wir streichen Ihre Wohnung schnell und kostengünstig; wo immer möglich, verwenden wir dabei umweltverträgliche Produkte. Gerne beraten wir Sie bezüglich dekorativer Malerarbeiten, spezieller Wandbeläge oder neuer Tapeten. <br><br>Wir bieten Ihnen viele verschiedene Tapeten an. Die Fachleute von PUREGO beraten Sie gerne bei der Auswahl. Unsere Maler sind ausgezeichnet ausgebildet und tapezieren Ihre Wände fachgerecht und wirkungsvoll.<br>Immer effizient<br><br><b>Wir bieten:<br></b><br>- Individuelle und persönliche Beratung zu Malerarbeiten<br>- Umweltgerechte Produkte<br>- Professionelle Beratung bei der Farbwahl<br>- Ökonomische Sanierungen<br>- Effiziente und sorgfältige Ausführung beim Malen&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "36px",
-              "text-align": "right"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "color": "#000000",
-              "font-size": "16px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "16px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-c",
           "_params": {
             "parallax": true,
@@ -470,19 +482,7 @@
           },
           "title": "GIBSARBEITEN<br><br>",
           "text": "<span style=\"line-height: 1.5;\">Gipserarbeiten verlangen Sorgfalt und Geschick. Unsere Mitarbeiter führen ihr Handwerk täglich mit Stolz aus, arbeiten sauber und präzise.</span><br><br>Ob Innen- oder Aussenputze, Trockenbauarbeiten, Akustikputze oder Brandabschottungen – bei PUREGO erhalten Sie stets fachgerechtes Handwerk von höchster Qualität.<br><br>Unsere Gipser legen grossen Wert auf ökologische und umweltverträgliche Lösungen und arbeiten mit den modernsten Technologien.<br><br><b>Wir bieten:<br></b><br>- Individuelle Beratung bei Innen- und Aussenputz sowie auch Kalkputz und Fassadenputz.<br>- Ökologische Lösungen<br>- Saubere und sorgfältige Ausführung",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "16px"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "msg-box8",
@@ -504,7 +504,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-i",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -667,6 +667,14 @@
             "Extension"
           ],
           "_name": "extHeader9",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extHeader9-8",
           "_params": {
             "parallax": true,
@@ -722,15 +730,7 @@
           "formSubtitle": "",
           "title": "Kontaktieren Sie uns",
           "text": "PUREGO GmbH<br> Mürgelistrasse 2<br>4528 Zuchwil<br><br>Telefon: +41 76 525 93 30<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -738,6 +738,14 @@
             "Extension"
           ],
           "_name": "extForm2",
+          "_styles": {
+            "H3": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "extForm2-6",
           "_params": {
             "imageSize": "50",
@@ -794,15 +802,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#efefef"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         }
       ]
     }

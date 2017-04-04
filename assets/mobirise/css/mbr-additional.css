@@ -1,7 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+
+
+
 
 
 
@@ -10,11 +12,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .btn,
 .alert,
@@ -38,7 +40,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -52,7 +54,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -61,23 +63,26 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .bg-primary {
-  background-color: #ffffff !important;
+  background-color: #c0a375 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -92,8 +97,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #c0a375;
+  border-color: #c0a375;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -102,14 +107,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  background-color: #a07e49;
+  border-color: #a07e49;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  background-color: #a07e49 !important;
+  border-color: #a07e49 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -213,8 +218,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #ffffff;
-  color: #ffffff;
+  border-color: #8e7041;
+  color: #8e7041;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -222,14 +227,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  background-color: #c0a375 !important;
+  border-color: #c0a375 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -332,7 +337,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #ffffff !important;
+  color: #c0a375 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -359,36 +364,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #ffffff;
+  border-color: #c0a375;
 }
 .btn-social:hover {
-  background: #ffffff;
+  background: #c0a375;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #ffffff;
+  color: #c0a375;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #ffffff;
+  color: #c0a375;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #ffffff;
+  background: #c0a375;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #ffffff;
+  color: #c0a375;
 }
 .lead a,
 .lead a:hover {
-  color: #ffffff;
+  color: #c0a375;
 }
 .lead blockquote {
-  border-color: #ffffff;
+  border-color: #c0a375;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e8ddcd;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -408,85 +413,430 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #ffffff;
+  color: #c0a375;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#content5-8 .mbr-section-title,
-#content5-8 p {
-  color: #fff;
+.extCountdown1 .number,
+.extCountdown2 .number {
+  font-family: 'Ubuntu', sans-serif;
 }
-#footer1-2 P {
-  color: #ffffff;
+.extCountdown1 .period,
+.extCountdown2 .period {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
-#ext_menu-0 .hide-buttons .nav-btn {
+.extCountdown1 .dot,
+.extCountdown2 .dot {
+  font-family: 'Ubuntu', sans-serif;
+}
+.features6 .feature-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.features6 .feature-title {
+  font-family: 'Ubuntu', sans-serif;
+}
+.features6 .description {
+  font-family: 'Ubuntu', sans-serif;
+}
+.count,
+.counter-title {
+  font-family: 'Ubuntu', sans-serif;
+}
+.counter-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.mbr-iconfont-counters1 {
+  color: #c0a375;
+}
+.extHeader1 .container h3,
+.extHeader2 .container h3,
+.extHeader3 .container h3,
+.extHeader5 .container h3,
+.extHeader6 .container h3,
+.extHeader7 .container h3,
+.extHeader8 .container h3,
+.extHeader9 .container h3,
+.extHeader10 .container h3,
+.extHeader12 .container h3,
+.extHeader13 .container h3,
+.extFeatures10 .container h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader1 .container p,
+.extHeader2 .container p,
+.extHeader3 .container p,
+.extHeader5 .container p,
+.extHeader6 .container p,
+.extHeader7 .container p,
+.extHeader8 .container p,
+.extHeader9 .container p,
+.extHeader10 .container p,
+.extHeader12 .container p,
+.extHeader13 .container p,
+.extFeatures10 .container p {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extHeader5 .container label {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extHeader9 form p.form-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader11 .container span {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader11 .container p.element {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader11 .container p {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extHeader12 h4,
+.extFeatures10 h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader12 .subtitle,
+.extFeatures10 .subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extHeader13 h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader13 .number {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extHeader13 .period {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extHeader13 .dot {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extFeatures .feature-title {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extFeatures .feature-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extFeatures .feature-text {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extFeatures2 h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extFeatures3 .border-wrap {
+  border-color: #c0a375;
+}
+.extFeatures4 h4,
+.extFeatures6 h4,
+.extFeatures5 .card-title h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extFeatures4 h5,
+.extFeatures6 h5,
+.extFeatures5 .card-title h5 {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extForm1 h4,
+.extForm2 h4,
+.extForm3 h4,
+.extForm4 h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extForm1 .subtitle,
+.extForm2 .subtitle,
+.extForm3 .subtitle,
+.extForm4 .subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extForm2 .container h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extForm2 .container p {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extPricingTable1 .bottom_line {
+  border-bottom-color: #c0a375;
+}
+.extPricingTable1 .mbr-price small {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extPricingTable1 .mbr-plan-label {
+  background: #c0a375;
+}
+.extCounters2 h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extCounters2 h5 {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extCounters3 .count {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extCounters3 .counter-title {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extCounters3 .counter-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extProgressBar .progress-primary[value]::-webkit-progress-value {
+  background-color: #c0a375;
+}
+.extProgressBar .progress-primary[value]::-moz-progress-bar {
+  background-color: #c0a375;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar .progress-primary .progress-bar {
+    background-color: #c0a375;
+  }
+}
+.extProgressBar .title-wrap {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extProgressBarRound .progress-radial .overlay {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extProgressBar4 .feature-title {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extProgressBar4 .feature-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extTabs1 ul.nav-tabs li a:hover,
+.extTabs2 ul.nav-tabs li a:hover {
+  color: #c0a375;
+}
+.extAccordion1 .panel-heading a {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extAccordion1 .pseudoPlus,
+.extAccordion2 .pseudoPlus,
+.extToggle1 .pseudoPlus,
+.extAccordion1 .pseudoPlus:after,
+.extAccordion2 .pseudoPlus:after,
+.extToggle1 .pseudoPlus:after,
+.extAccordion1 .pseudoMinus,
+.extAccordion2 .pseudoMinus,
+.extToggle1 .pseudoMinus {
+  background-color: #c0a375;
+}
+.extAccordion2 .panel-heading a,
+.extAccordion3 .panel-heading a,
+.extToggle1 .panel-heading a {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extProgressBar5 .progress-primary[value]::-webkit-progress-value {
+  background-color: #c0a375;
+}
+.extProgressBar5 .progress-primary[value]::-moz-progress-bar {
+  background-color: #c0a375;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar5 .progress-primary .progress-bar {
+    background-color: #c0a375;
+  }
+}
+.extProgressBar5 .title-wrap {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extMsg-box1 .container h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extMsg-box1 .container p {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extMsg-box1 h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extMsg-box1 .subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extMsg-box2 .container span,
+.extMsg-box3 .container span,
+.extMsg-box4 .container span {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extMsg-box2 .container p,
+.extMsg-box3 .container p,
+.extMsg-box4 .container p {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+}
+.extProgressBarRound .pie_progress__number {
+  font-family: 'Ubuntu', sans-serif;
+}
+.extMenu1 span.icon a:hover {
+  color: #c0a375 !important;
+}
+.extProgressBar .progress-primary[value]::-ms-fill {
+  color: #c0a375;
+}
+.extProgressBar5 .progress-primary[value]::-ms-fill {
+  color: #c0a375;
+}
+.theme-border {
+  border: 1px solid #c0a375;
+}
+#menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
-#ext_menu-0 .navbar-caption {
+#menu-0 .navbar-caption {
   color: #ffffff;
 }
-#ext_menu-0 .navbar-toggler {
-  color: #ffffff;
+#menu-0 .navbar-toggler {
+  color: #000000;
 }
-#ext_menu-0 .close-icon::before,
-#ext_menu-0 .close-icon::after {
-  background-color: #ffffff;
+#menu-0 .close-icon::before,
+#menu-0 .close-icon::after {
+  background-color: #000000;
 }
-#ext_menu-0 .link,
-#ext_menu-0 .dropdown-item {
-  color: #ffffff;
+#menu-0 .link,
+#menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
 }
-#ext_menu-0 .link {
-  font-size: 0.75rem;
+#menu-0 .link {
+  font-size: 1rem;
 }
-#ext_menu-0 .dropdown-item,
-#ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
 }
-#ext_menu-0 .link:hover,
-#ext_menu-0 .dropdown-item:hover,
-#ext_menu-0 .link:focus,
-#ext_menu-0 .dropdown-item:focus {
-  color: #ffffff;
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #c0a375;
 }
-#ext_menu-0 .link[aria-expanded="true"],
-#ext_menu-0 .dropdown-menu {
-  background: #000000;
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #e6e6e6;
 }
-#ext_menu-0 .nav-dropdown-sm .link:focus,
-#ext_menu-0 .nav-dropdown-sm .link:hover,
-#ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
 }
-#ext_menu-0 .navbar,
-#ext_menu-0 .nav-dropdown-sm,
-#ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
 }
-#ext_menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+#menu-0 .bg-color.transparent .link {
+  color: #000000;
   transition: none;
 }
-#ext_menu-0 .bg-color.transparent.opened .link {
+#menu-0 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#ext_menu-0 .bg-color.transparent.opened .link:hover,
-#ext_menu-0 .bg-color.transparent.opened .link:focus {
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#extHeader3-1 H5 {
   color: #ffffff;
 }
-#ext_menu-0 .link[aria-expanded="true"],
-#ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+#extHeader3-1 P {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
-#contacts2-1 SPAN {
+#extHeader3-1 H3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#footer1-5 P {
   color: #ffffff;
 }
-#contacts2-1 P {
+#extHeader14-7 P {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
-#contacts4-2 .btn {
-  font-family: 'Lato', sans-serif;
+#extHeader14-7 H3 {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: left;
+}
+#msg-box5-9 H3 {
+  text-align: left;
+  font-size: 36px;
+}
+#msg-box5-9 P {
+  text-align: left;
+}
+#header1-d .mbr-section-title {
+  color: #000000;
+  font-size: 36px;
+  text-align: right;
+}
+#header1-d .mbr-section-lead {
+  text-align: left;
+  color: #000000;
+  font-size: 16px;
+}
+#header1-c .mbr-section-lead {
+  color: #000000;
+  text-align: left;
+  font-size: 16px;
+}
+#header1-c .mbr-section-title {
+  color: #000000;
+  text-align: left;
+  font-size: 36px;
+}
+#msg-box3-i .mbr-section-title,
+#msg-box3-i p {
+  color: #000;
+}
+#msg-box3-i .lead P {
+  text-align: left;
+}
+#msg-box3-i .mbr-section-title {
+  text-align: right;
+  font-size: 36px;
+}
+#features4-j .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-j .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features4-j P {
+  text-align: left;
+}
+#extHeader9-8 P {
+  text-align: left;
+}
+#extHeader9-8 H3 {
+  text-align: left;
+}
+#extForm2-6 H3 {
+  color: #efefef;
+}
+#extForm2-6 P {
+  color: #ffffff;
 }

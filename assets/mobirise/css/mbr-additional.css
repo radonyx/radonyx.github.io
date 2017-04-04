@@ -769,6 +769,9 @@ h6,
 #extHeader3-1 H3 {
   font-family: 'Ubuntu', sans-serif;
 }
+#extHeader3-1 SPAN {
+  font-size: 72px;
+}
 #footer1-5 P {
   color: #ffffff;
 }
